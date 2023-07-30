@@ -45,7 +45,6 @@
   <ul>
     <li>Search weather for any city or location.</li>
     <li>Display current weather information, including temperature, humidity, wind speed, and weather conditions (e.g., sunny, cloudy, rainy).</li>
-    <li>Option to view a 5-day weather forecast for the selected location.</li>
     <li>Responsive and user-friendly GUI design.</li>
   </ul>
 
