@@ -38,9 +38,34 @@
 </ul>
 
 
-<hr>
+  <h1>Tkinter Python Weather App</h1>
+  <p>This is a simple weather app built with Tkinter, a Python GUI toolkit, that allows users to check the weather conditions for a specific location.</p>
+
+  <h2>Features</h2>
+  <ul>
+    <li>Search weather for any city or location.</li>
+    <li>Display current weather information, including temperature, humidity, wind speed, and weather conditions (e.g., sunny, cloudy, rainy).</li>
+    <li>Responsive and user-friendly GUI design.</li>
+  </ul>
+
+  <h2>Installation</h2>
+  <p>Make sure you have Python 3.x installed on your system.</p>
+  <pre><code>pip install tkinter
+pip install requests
+git clone https://github.com/your_username/weather_app.git
+cd weather_app
+python weather_app.py</code></pre>
+
+  <h2>Usage</h2>
+  <p>1. Run the "weather_app.py" file.</p>
+  <p>2. Enter the name of the city or location for which you want to check the weather.</p>
+  <p>3. Click the "search" button to retrieve the current weather conditions for the specified location.</p>
+
 
 </body>
 </html>
+
+
+
 
 
